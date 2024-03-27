@@ -1,0 +1,9 @@
+entrypoint = "./scribble/TimesTables.swift"
+
+modules = ["swift"]
+
+[nix]
+channel = "stable-23_11"
+
+# [deployment]
+# run = ["sh", "-c", "make me!"]
