@@ -1,4 +1,4 @@
-entrypoint = "./scribble/TimesTables.swift"
+entrypoint = "./backjoon/2750.swift"
 
 modules = ["swift"]
 
