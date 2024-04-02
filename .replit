@@ -1,4 +1,4 @@
-entrypoint = "./backjoon/2587.swift"
+entrypoint = "./backjoon/25305.swift"
 
 modules = ["swift"]
 
